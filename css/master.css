@@ -1,0 +1,60 @@
+body {
+  background-color: #34626c;
+  font-style: italic;
+  color: inherit;
+  align-content: center;
+    text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted #94b5c0;
+  width: 06%
+}
+
+h1 {
+  color: #66BFBF;
+    text-align: center;
+}
+
+h3 {
+  color: #66BFBF;
+    text-align: center;
+
+}
+
+h2 {
+  color: #66BFBF;
+    text-align: center;
+}
+
+a:link, a:visited {
+  color: #66BFBF;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display:inherit;
+}
+
+a:hover, a:active {
+  color: #66BFBF;
+  font-size: 101%;
+}
+
+p {
+  align-self: center;
+  text-align: center;
+  color: #66BFBF;
+  font-size-adjust:inherit;
+}
+table {
+  width: 50%;
+  align-self: center;
+  text-align: left;
+  align-content: center;
+
+}
+
+p2{
+  text-align: left;
+}
