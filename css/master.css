@@ -4,6 +4,7 @@ body {
   color: inherit;
   align-content: center;
     text-align: center;
+    text-shadow:10px 10px 10px black;
 }
 
 hr {
@@ -55,6 +56,20 @@ table {
 
 }
 
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 p2{
   text-align: left;
+}
+
+p4{
+  color: #66BFBF;
+  text-decoration: none;
+}
+
+.shadow{
+  box-shadow: 5px 5px 10px black;
 }
