@@ -1,5 +1,5 @@
 body {
-  background-color: #34626c;
+  background-color: #03506f;
   font-style: italic;
   color: inherit;
   align-content: center;
@@ -14,23 +14,23 @@ hr {
 }
 
 h1 {
-  color: #66BFBF;
+  color: #94b5c0;
     text-align: center;
 }
 
 h3 {
-  color: #66BFBF;
+  color: #94b5c0;
     text-align: center;
 
 }
 
 h2 {
-  color: #66BFBF;
+  color: #94b5c0;
     text-align: center;
 }
 
 a:link, a:visited {
-  color: #66BFBF;
+  color: #94b5c0;
   border: none;
   text-align: center;
   text-decoration: none;
@@ -38,14 +38,14 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  color: #66BFBF;
+  color:#94b5c0;
   font-size: 101%;
 }
 
 p {
   align-self: center;
   text-align: center;
-  color: #66BFBF;
+  color: #94b5c0;
   font-size-adjust:inherit;
 }
 table {
@@ -66,7 +66,7 @@ p2{
 }
 
 p4{
-  color: #66BFBF;
+  color: #94b5c0;
   text-decoration: none;
 }
 
